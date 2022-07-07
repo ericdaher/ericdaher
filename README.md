@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-I'm a software developer, currently working as a full-stack developer at Worldpackers in Campinas - Brazil. Always trying to broaden my horizons and learn new things!
+I'm a software developer, currently working as a full-stack developer using Ruby on Rails @ Worldpackers in Campinas - Brazil. Always trying to broaden my horizons and learn new things!
 
  <br/>You can reach me at: <br/>
 [![Linkedin Badge](https://img.shields.io/badge/-EricDaher-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eric-ribeiro-daher-7aa8a0b7/)](https://www.linkedin.com/in/eric-ribeiro-daher-7aa8a0b7/)
